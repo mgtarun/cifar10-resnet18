@@ -1,0 +1,21 @@
+# Dataset (download separately)
+data_batch_*
+test_batch
+batches.meta
+*.tar.gz
+
+# Model weights
+*.pth
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
